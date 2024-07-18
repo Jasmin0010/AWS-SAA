@@ -1,7 +1,7 @@
 # 🪪 AWS-SAA
  AWS Certified Solutions Architect Associate 자격증 준비 
 
-# 🏆 목표
+## 🏆 목표
 ### 2024 연말까지 SAA 자격증 통과 (2024.07.15 ~ 2024.12.)
 11월 말까지 강의 완강
 12월 덤프 3회독
@@ -9,7 +9,7 @@
 
 
 
-# 📚 공부 계획 
+## 📚 공부 계획 
 - udemy 'Ultimate AWS Certified Solutions Architect Associate SAA-C03 : Stephane Maarek' 완강
 - 덤프 3회독    
 
@@ -48,8 +48,8 @@
 | Exam Preparation                   |    11.25      |       |
 | Congratulations                    |    11.25      |       |
    
-# 🗂️ 덤프 자료
+## 🗂️ 덤프
 - 공부방법: 
 - 자료:    
     
-# 📎 시험 합격 자료 
+## 📎 참고
