@@ -16,8 +16,8 @@
 <강의 계획> 
 | Course                             | Deadline | Check |
 |------------------------------------|----------|-------|
-| Getting Started with AWS           |      7.22    |       |
-| AWS Identity & Access Management (AWS IAM) |     7.22     |       |
+| Getting Started with AWS           |      7.22    |    ✅   |
+| AWS Identity & Access Management (AWS IAM) |     7.22     |  ✅     |
 | Amazon EC2 – Basics                |      7.29    |       |
 | Amazon EC2 – Associate             |      8.5    |       |
 | Amazon EC2 – Instance Storage      |      8.5    |       |
